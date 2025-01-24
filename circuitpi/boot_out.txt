@@ -1,0 +1,4 @@
+Adafruit CircuitPython 9.2.3 on 2025-01-17; Adafruit KB2040 with rp2040
+Board ID:adafruit_kb2040
+UID:DF643CF0139C4439
+boot.py output:
